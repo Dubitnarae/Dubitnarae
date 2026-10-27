@@ -7,7 +7,7 @@
 
 **Soft magnetic materials R&D by day, lab-tool builder by night.**
 
-낮엔 연자성 분말·리본·코어를 연구하고,<br>
+낮엔 금속 분말 · 연자성 리본 · 연자성 코어를 연구하고,<br>
 밤엔 Claude랑 실험실에서 쓸 프로그램을 만듭니다.<br>
 손으로 받아 적던 측정값은 자동으로 기록되게,<br>
 엑셀로 두드리던 합금 조성은 버튼 한 번에.
