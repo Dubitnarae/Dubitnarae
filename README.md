@@ -12,7 +12,7 @@
 손으로 받아 적던 측정값은 자동으로 기록되게,<br>
 엑셀로 두드리던 합금 조성은 버튼 한 번에.
 
-<a href="https://github.com/Dubitnarae?tab=repositories"><img src="https://img.shields.io/badge/Repositories-3-24292f?style=flat-square&logo=github"></a>
+<a href="https://github.com/Dubitnarae?tab=repositories"><img src="https://img.shields.io/badge/Repositories-4-24292f?style=flat-square&logo=github"></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
