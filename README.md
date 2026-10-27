@@ -45,6 +45,19 @@ const narae = {
 | [**elemcalc**](https://github.com/Dubitnarae/elemcalc) | ![](https://img.shields.io/github/v/release/Dubitnarae/elemcalc?style=flat-square&label=&color=0969da) | 원소 함량 계산기. at% ⇄ wt% 변환, 원료별 칭량·최저 원가 조합, 실제 조성 역계산 |
 | [**secure_browser**](https://github.com/Dubitnarae/secure_browser) | ![](https://img.shields.io/github/v/release/Dubitnarae/secure_browser?style=flat-square&label=&color=0969da) | YD Browser. 화면 캡처를 막고 보안 로그를 남기는 Windows용 웹 브라우저 |
 
+### When someone reviews my code...
+
+<table>
+<tr>
+<td align="center" width="50%"><sub><b>"이 코드 왜 이렇게 짰어요?"</b></sub></td>
+<td align="center" width="50%"><sub><b>"그럼 리팩토링 좀 해 주세요"</b></sub></td>
+</tr>
+<tr>
+<td><img src="assets/meme-1.jpg" width="100%" alt="원래 자세히 보면 안 되는 거야"></td>
+<td><img src="assets/meme-2.jpg" width="100%" alt="그럼 못해"></td>
+</tr>
+</table>
+
 <div align="center">
 <br>
 <sub>Hc는 낮게, 생산성은 높게. · 반복 작업은 코드로 넘긴다.</sub>
