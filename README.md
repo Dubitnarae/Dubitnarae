@@ -41,9 +41,9 @@ const narae = {
 
 | Project | Release | 설명 |
 |:--|:--:|:--|
-| [**LCR_Logger**](https://github.com/Dubitnarae/LCR_Logger) | ![](https://img.shields.io/github/v/release/Dubitnarae/LCR_Logger?style=flat-square&label=&color=0969da) | HIOKI LCR 미터 측정값을 USB로 받아 CSV로 자동 기록. 자동 업데이트 지원 |
-| [**elemcalc**](https://github.com/Dubitnarae/elemcalc) | ![](https://img.shields.io/github/v/release/Dubitnarae/elemcalc?style=flat-square&label=&color=0969da) | 원소 함량 계산기. at% ⇄ wt% 변환, 원료별 칭량·최저 원가 조합, 실제 조성 역계산 |
-| [**secure_browser**](https://github.com/Dubitnarae/secure_browser) | ![](https://img.shields.io/github/v/release/Dubitnarae/secure_browser?style=flat-square&label=&color=0969da) | YD Browser. 화면 캡처를 막고 보안 로그를 남기는 Windows용 웹 브라우저 |
+| [**LCR_Logger**](https://github.com/Dubitnarae/LCR_Logger) | ![](https://img.shields.io/github/v/release/Dubitnarae/LCR_Logger?style=flat-square&label=&color=0969da&cacheSeconds=3600) | HIOKI LCR 미터 측정값을 USB로 받아 CSV로 자동 기록. 자동 업데이트 지원 |
+| [**elemcalc**](https://github.com/Dubitnarae/elemcalc) | ![](https://img.shields.io/github/v/release/Dubitnarae/elemcalc?style=flat-square&label=&color=0969da&cacheSeconds=3600) | 원소 함량 계산기. at% ⇄ wt% 변환, 원료별 칭량·최저 원가 조합, 실제 조성 역계산 |
+| [**secure_browser**](https://github.com/Dubitnarae/secure_browser) | ![](https://img.shields.io/github/v/release/Dubitnarae/secure_browser?style=flat-square&label=&color=0969da&cacheSeconds=3600) | YD Browser. 화면 캡처를 막고 보안 로그를 남기는 Windows용 웹 브라우저 |
 
 ### When someone reviews my code...
 
