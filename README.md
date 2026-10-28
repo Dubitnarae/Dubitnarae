@@ -5,7 +5,7 @@
 
 # 나랭이올시다 🧲
 
-**additive&Soft magnetic materials R&D by day, lab-tool builder by night.**
+**Additive Manufacturing&Soft magnetic materials R&D by day, lab-tool builder by night.**
 
 낮엔 금속 분말 · 연자성 리본 · 코어를 연구하고,<br>
 밤엔 Claude랑 실험실에서 쓸 프로그램을 만듭니다.<br>
