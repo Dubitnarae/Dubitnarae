@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white">
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
 
 </div>
@@ -27,7 +31,7 @@ const narae = {
   role: "Materials R&D Engineer · 연자성 소재",
   based: "Gyeonggi, Korea 🇰🇷",
   materials: ["Amorphous ribbon", "Nanocrystalline core", "Gas-atomized powder"],
-  code: ["Python", "C#", "JavaScript"],
+  code: ["Python", "C#", "JavaScript", "TypeScript", "Rust"],
   stack: ["Claude Code", "PyQt6", "WinForms", "GitHub Releases"],
   building: {
     labTools: ["LCR_Logger", "elemcalc", "xrd-amorph-checker"],
