@@ -32,9 +32,9 @@ const narae = {
   based: "Gyeonggi, Korea 🇰🇷",
   materials: ["Amorphous ribbon", "Nanocrystalline core", "Gas-atomized powder"],
   code: ["Python", "C#", "JavaScript", "TypeScript", "Rust"],
-  stack: ["Claude Code", "PyQt6", "WinForms", "GitHub Releases"],
+  stack: ["Claude Code", "PyQt6", "WinForms", "pywebview", "GitHub Releases"],
   building: {
-    labTools: ["LCR_Logger", "elemcalc", "xrd-amorph-checker"],
+    labTools: ["LCR_Logger", "elemcalc", "xrd-amorph-checker", "PSA_Viewer"],
     utilities: ["secure_browser"],
   },
   funFact: "측정 장비 옆에서 코드를 짭니다 🔬",
@@ -48,6 +48,7 @@ const narae = {
 | [**LCR_Logger**](https://github.com/Dubitnarae/LCR_Logger) | ![](https://img.shields.io/github/v/release/Dubitnarae/LCR_Logger?style=flat-square&label=&color=0969da&cacheSeconds=3600) | HIOKI IM3536 LCR 미터 측정값을 USB로 받아 CSV로 자동 기록. |
 | [**elemcalc**](https://github.com/Dubitnarae/elemcalc) | ![](https://img.shields.io/github/v/release/Dubitnarae/elemcalc?style=flat-square&label=&color=0969da&cacheSeconds=3600) | 원소 함량 계산기. at% ⇄ wt% 변환, 원료별 칭량·최저 원가 조합, 실제 조성 역계산 |
 | [**xrd_amorph_checker**](https://github.com/Dubitnarae/xrd-amorph-checker) | ![](https://img.shields.io/github/v/release/Dubitnarae/xrd-amorph-checker?style=flat-square&label=&color=0969da&cacheSeconds=3600) | XRD 비정질 판정 도우미. .xrdml·CSV 결과에서 halo를 피팅하고 결정 피크를 찾아 비정질·결정상·나노결정상 후보를 판정 |
+| [**PSA_Viewer**](https://github.com/Dubitnarae/PSA_Viewer) | ![](https://img.shields.io/github/v/release/Dubitnarae/PSA_Viewer?style=flat-square&label=&color=0969da&cacheSeconds=3600) | PSA 입도 뷰어. HORIBA LA-960(.ngb)·Malvern Mastersizer 2000(.mea) 결과를 열어 D10·D50·D90·Span, 수율 계산, 분말 혼합 시 입도분포 예측 |
 | [**secure_browser**](https://github.com/Dubitnarae/secure_browser) | ![](https://img.shields.io/github/v/release/Dubitnarae/secure_browser?style=flat-square&label=&color=0969da&cacheSeconds=3600) | Secure Browser. 화면 캡처를 막고 보안 로그를 남기는 Windows용 웹 브라우저 |
 
 ### When someone reviews my code...
