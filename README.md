@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/pywebview-1E415E?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
 
 </div>
