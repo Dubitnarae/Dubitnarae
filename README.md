@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white">
 <img src="https://img.shields.io/badge/pywebview-1E415E?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
+<img src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white">
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white">
 
 </div>
@@ -33,10 +36,11 @@ const narae = {
   based: "Gyeonggi, Korea 🇰🇷",
   materials: ["Amorphous ribbon", "Nanocrystalline core", "Gas-atomized powder"],
   code: ["Python", "C#", "JavaScript", "TypeScript", "Rust"],
-  stack: ["Claude Code", "PyQt6", "WinForms", "pywebview", "GitHub Releases"],
+  stack: ["Claude Code", "PyQt6", "WinForms", "pywebview", "Electron", "React Three Fiber", "GitHub Releases"],
   building: {
     labTools: ["LCR_Logger", "elemcalc", "xrd-amorph-checker", "PSA_Viewer"],
     utilities: ["secure_browser"],
+    forChurch: ["bitgil"],
   },
   funFact: "측정 장비 옆에서 코드를 짭니다 🔬",
 };
@@ -51,6 +55,7 @@ const narae = {
 | [**xrd_amorph_checker**](https://github.com/Dubitnarae/xrd-amorph-checker) | ![](https://img.shields.io/github/v/release/Dubitnarae/xrd-amorph-checker?style=flat-square&label=&color=0969da&cacheSeconds=3600) | XRD 비정질 판정 도우미. .xrdml·CSV 결과에서 halo를 피팅하고 결정 피크를 찾아 비정질·결정상·나노결정상 후보를 판정 |
 | [**PSA_Viewer**](https://github.com/Dubitnarae/PSA_Viewer) | ![](https://img.shields.io/github/v/release/Dubitnarae/PSA_Viewer?style=flat-square&label=&color=0969da&cacheSeconds=3600) | PSA 입도 뷰어. HORIBA LA-960(.ngb)·Malvern Mastersizer 2000(.mea) 결과를 열어 D10·D50·D90·Span, 수율 계산, 분말 혼합 시 입도분포 예측 |
 | [**secure_browser**](https://github.com/Dubitnarae/secure_browser) | ![](https://img.shields.io/github/v/release/Dubitnarae/secure_browser?style=flat-square&label=&color=0969da&cacheSeconds=3600) | Secure Browser. 화면 캡처를 막고 보안 로그를 남기는 Windows용 웹 브라우저 |
+| [**bitgil**](https://github.com/Dubitnarae/bitgil) | ![](https://img.shields.io/github/v/release/Dubitnarae/bitgil?style=flat-square&label=&color=0969da&cacheSeconds=3600) | 빛길. 교회 3D 조명 DMX 제어 프로그램. 콘솔 없이 PC와 USB-DMX로 조명 36대를 3D 화면에서 조정하고, 씬 저장·페이드 재생, 폰으로 원격 조작 |
 
 ### When someone reviews my code...
 
