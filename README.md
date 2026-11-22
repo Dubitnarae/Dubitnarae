@@ -57,7 +57,7 @@ const narae = {
     labTools: ["LCR_Logger", "elemcalc", "xrd-amorph-checker", "PSA_Viewer", "DataLab", "RSP_Logger"],
     utilities: ["secure_browser", "Key_Macro"],
     forChurch: ["bitgil"],
-    personal: ["Cremaker_Control"],
+    forFun: ["Cremaker_Control"],
   },
   funFact: "측정 장비 옆에서 코드를 짭니다 🔬",
 };
