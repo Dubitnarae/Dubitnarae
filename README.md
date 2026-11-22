@@ -54,9 +54,10 @@ const narae = {
   code: ["Python", "C#", "JavaScript", "TypeScript", "Rust"],
   stack: ["Claude Code", "PyQt6", "PySide6", "WinForms", "pywebview", "Electron", "React Three Fiber", "NumPy·SciPy·Matplotlib", "Marlin·G-code", "Telegram Bot", "GitHub Releases"],
   building: {
-    labTools: ["LCR_Logger", "elemcalc", "xrd-amorph-checker", "PSA_Viewer", "DataLab", "RSP_Logger", "Cremaker_Control"],
+    labTools: ["LCR_Logger", "elemcalc", "xrd-amorph-checker", "PSA_Viewer", "DataLab", "RSP_Logger"],
     utilities: ["secure_browser", "Key_Macro"],
     forChurch: ["bitgil"],
+    personal: ["Cremaker_Control"],
   },
   funFact: "측정 장비 옆에서 코드를 짭니다 🔬",
 };
@@ -72,10 +73,10 @@ const narae = {
 | [**PSA_Viewer**](https://github.com/Dubitnarae/PSA_Viewer) | ![](https://img.shields.io/github/v/release/Dubitnarae/PSA_Viewer?style=flat-square&label=&color=0969da&cacheSeconds=3600) | PSA 입도 뷰어. HORIBA LA-960(.ngb)·Malvern Mastersizer 2000(.mea) 결과를 열어 D10·D50·D90·Span, 수율 계산, 분말 혼합 시 입도분포 예측 |
 | [**DataLab**](https://github.com/Dubitnarae/DataLab) | ![](https://img.shields.io/github/v/release/Dubitnarae/DataLab?style=flat-square&label=&color=0969da&cacheSeconds=3600) | R&D 데이터 해석·그래프. VSM(M-H 루프) Hc·Mr·Ms·각형비 계산, XRD 판정 결과 표시, 논문·PPT용 그래프 저장, 측정 이력 DB |
 | [**RSP_Logger**](https://github.com/Dubitnarae/RSP_Logger) | ![](https://img.shields.io/github/v/release/Dubitnarae/RSP_Logger?style=flat-square&label=&color=0969da&cacheSeconds=3600) | 리본 멜트스피너 공정값 기록기. LS XGB PLC에서 읽기 전용으로 값을 받아 출탕 시작을 자동 감지해 CSV로 기록 |
-| [**Cremaker_Control**](https://github.com/Dubitnarae/Cremaker_Control) | ![](https://img.shields.io/github/v/release/Dubitnarae/Cremaker_Control?style=flat-square&label=&color=0969da&cacheSeconds=3600) | Cremaker Metal V2 3D 프린터 컨트롤러. USB로 실시간 조작하고 프린터 화면 조작까지 감지해 로그로 수집, 3D 진행 보기·출력 기록·텔레그램 알림 |
 | [**secure_browser**](https://github.com/Dubitnarae/secure_browser) | ![](https://img.shields.io/github/v/release/Dubitnarae/secure_browser?style=flat-square&label=&color=0969da&cacheSeconds=3600) | Secure Browser. 화면 캡처를 막고 보안 로그를 남기는 Windows용 웹 브라우저 |
 | [**Key_Macro**](https://github.com/Dubitnarae/Key_Macro) | ![](https://img.shields.io/github/v/release/Dubitnarae/Key_Macro?style=flat-square&label=&color=0969da&cacheSeconds=3600) | 키보드·마우스 매크로. 단축키로 기록·실행, 마우스 위치·화면 색 가져오기 |
 | [**bitgil**](https://github.com/Dubitnarae/bitgil) | ![](https://img.shields.io/github/v/release/Dubitnarae/bitgil?style=flat-square&label=&color=0969da&cacheSeconds=3600) | 빛길. 교회 3D 조명 DMX 제어 프로그램. 콘솔 없이 PC와 USB-DMX로 조명 36대를 3D 화면에서 조정하고, 씬 저장·페이드 재생, 폰으로 원격 조작 |
+| [**Cremaker_Control**](https://github.com/Dubitnarae/Cremaker_Control) | ![](https://img.shields.io/github/v/release/Dubitnarae/Cremaker_Control?style=flat-square&label=&color=0969da&cacheSeconds=3600) | Cremaker Metal V2 3D 프린터 컨트롤러. USB로 실시간 조작하고 프린터 화면 조작까지 감지해 로그로 수집, 3D 진행 보기·출력 기록·텔레그램 알림 |
 
 ### When someone reviews my code...
 
