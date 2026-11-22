@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="assets/banner-light.svg#gh-light-mode-only" width="100%" alt="B-H hysteresis loop">
-<img src="assets/banner-dark.svg#gh-dark-mode-only" width="100%" alt="B-H hysteresis loop">
+<img src="assets/banner-light.svg#gh-light-mode-only" width="100%" alt="Lab tools streaming data into a log terminal">
+<img src="assets/banner-dark.svg#gh-dark-mode-only" width="100%" alt="Lab tools streaming data into a log terminal">
 
 # 나랭이올시다 🧲
 
@@ -57,7 +57,7 @@ const narae = {
     labTools: ["LCR_Logger", "elemcalc", "xrd-amorph-checker", "PSA_Viewer", "DataLab", "RSP_Logger"],
     utilities: ["secure_browser", "Key_Macro"],
     forChurch: ["bitgil"],
-    forFun: ["Cremaker_Control"],
+    personal: ["Cremaker_Control"],
   },
   funFact: "측정 장비 옆에서 코드를 짭니다 🔬",
 };
